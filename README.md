@@ -34,4 +34,5 @@ Overview: We were asked to provide a written analysis of the election audit for 
 3. The county that had the largest turnout was Denver and the candidate that earned the most vote was Diana DeGette with 73.8%, 272,892 votes.
 
 ### Election-Audit Summary
-This same analysis could be used or expanded to include other states. 
+This same analysis could be used in an expanded analysis to include other states like for presidential vote audits. If this is used for a national voting audit some modifications could be made.
+1. 
