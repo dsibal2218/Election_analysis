@@ -34,5 +34,10 @@ Overview: We were asked to provide a written analysis of the election audit for 
 3. The county that had the largest turnout was Denver and the candidate that earned the most vote was Diana DeGette with 73.8%, 272,892 votes.
 
 ### Election-Audit Summary
-This same analysis could be used in an expanded analysis to include other states like for presidential vote audits. If this is used for a national voting audit some modifications could be made.
-1. 
+This same analysis could be used in an expanded analysis to include other states like for presidential vote audits. If this is used for a national voting audit some modifications could be made. For instance, modifying so that we would have a breakdown of the total votes per state and the largest state that casted the vote. In this case, we would need to initialize a state list and dictionaries that will hold state names, the key and votes cast for each states as the value; write some for loop scripts that gets the state name from each row and decision statement with a logical operator to check if the state name acquired is in the state list. If not, it should be added to th state list, etc. Below is a sample of the code modifications and how the result could beprinted into the terminal.
+
+This same analysis could be used in an expanded analysis to include other states like for presidential vote audits. If this is used for a national voting audit some modifications could be made. For instance, modifying so that we would have a breakdown of the total votes per state and the largest state that casted the vote. In this case, we would need to initialize a state list and dictionaries that will hold state names, the key and votes cast for each states as the value; write some for loop scripts that gets the state name from each row and decision statement with a logical operator to check if the state name acquired is in the state list. If not, it should be added to th state list, etc. Below is a sample of the code modifications.
+
+<img width="549" alt="Screen Shot 2022-03-18 at 2 21 22 PM" src="https://user-images.githubusercontent.com/98235755/159061152-8521bc42-8f03-46b3-be0c-dff345f184fb.png">
+
+
