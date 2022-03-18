@@ -1,8 +1,8 @@
 # Election_analysis
-Overview: We were asked to provide a written analysis of the election audit for the election commission. We have already gathered information on candidate votes (percentages and winning). The election commission is asking for new results for the voter turnout for each county, percentage of  votes from each county out of the total count and county with the highest turnout. The request also include that we have a clearly written outline overview of the analysis methodologies. 
+Overview: We were asked to provide a written analysis of the election audit for the election commission. We have already gathered information on candidate votes (percentages and winning). The election commission is asking for new results for the voter turnout for each county, percentage of  votes from each county out of the total count and county with the highest turnout. The request also include that we have a clearly written outline overview of the analysis methodologies and how this same analysis could be applied for other similar analyses.
 
 ## Requirements and Details of the Analysis
-1. For this challenge, we are to use for loops and conditional statements with membership and logical operators to find the requested results. Then, print the results tot he command line and save them to a text file. 
+1. For this challenge, we are to use for loops and conditional statements with membership and logical operators to find the requested results. Then, print the results to the command line and save them to a text file. 
 
 2. We were to initialize a county list and dictionaries that will hold county names, the key and votes cast for each county as the value.
 
@@ -31,15 +31,15 @@ Overview: We were asked to provide a written analysis of the election audit for 
 
 ![image](https://user-images.githubusercontent.com/98235755/159043845-03a99d73-276a-4ff3-ad90-49be6ac78675.png)
 
-3. The county that had the largest turnout was Denver and the candidate that earned the most vote was Diana DeGette with 73.8%, 272,892 votes.
+3. The county that had the largest turnout was Denver and the candidate that earned the most votes was Diana DeGette with 73.8% of total votes (272,892 votes).
 
 ### Election-Audit Summary
 
-Overall, this analysis and how the codes have been written has proven to be accurate. Given that, this same analysis/code set could be used (with some modifications) in an expanded analysis to include other states like for national(presidential) vote audits. We could modify so that we would have a breakdown of the total votes per state and the largest state that casted the vote. 
+Overall, this analysis and how the codes have been written has been validated and proven to be accurate. Given that, this same analysis/code set could be used (with some modifications) in an expanded analysis to include other states like for national(presidential) vote audits. We could modify so that we would have a breakdown of the total votes per state and the largest state that casted the vote. 
 
 In including other states, we would need to initialize a state list and dictionaries that will hold state names, the key and votes cast for each states as the value; write some for loop scripts that gets the state name from each row and decision statement with a logical operator to check if the state name acquired is in the state list. If not, it should be added to th state list, etc. Basically the same steps we did when we analyzes the county level. 
 
-For the purposes of illustration of code moidifcation sample, I did add some MD data to the dataset to show the results.
+For the purposes of illustration of code moidifcation sample, I did add some random MD data to the dataset to show the results.
 
 Below is a sample of the code modifications and how the result would be printed into the terminal:
 
