@@ -34,10 +34,15 @@ Overview: We were asked to provide a written analysis of the election audit for 
 3. The county that had the largest turnout was Denver and the candidate that earned the most vote was Diana DeGette with 73.8%, 272,892 votes.
 
 ### Election-Audit Summary
-This same analysis could be used in an expanded analysis to include other states like for presidential vote audits. If this is used for a national voting audit some modifications could be made. For instance, modifying so that we would have a breakdown of the total votes per state and the largest state that casted the vote. In this case, we would need to initialize a state list and dictionaries that will hold state names, the key and votes cast for each states as the value; write some for loop scripts that gets the state name from each row and decision statement with a logical operator to check if the state name acquired is in the state list. If not, it should be added to th state list, etc. Below is a sample of the code modifications and how the result could beprinted into the terminal.
 
-This same analysis could be used in an expanded analysis to include other states like for presidential vote audits. If this is used for a national voting audit some modifications could be made. For instance, modifying so that we would have a breakdown of the total votes per state and the largest state that casted the vote. In this case, we would need to initialize a state list and dictionaries that will hold state names, the key and votes cast for each states as the value; write some for loop scripts that gets the state name from each row and decision statement with a logical operator to check if the state name acquired is in the state list. If not, it should be added to th state list, etc. Below is a sample of the code modifications.
+Overall, this analysis and how the codes have been written has proven to be accurate. Given that, this same analysis/code set could be used (with some modifications) in an expanded analysis to include other states like for national(presidential) vote audits. We could modify so that we would have a breakdown of the total votes per state and the largest state that casted the vote. 
+
+In including other states, we would need to initialize a state list and dictionaries that will hold state names, the key and votes cast for each states as the value; write some for loop scripts that gets the state name from each row and decision statement with a logical operator to check if the state name acquired is in the state list. If not, it should be added to th state list, etc. Basically the same steps we did when we analyzes the county level. 
+
+For the purposes of illustration of code moidifcation sample, I did add some MD data to the dataset to show the results.
+
+Below is a sample of the code modifications and how the result would be printed into the terminal:
 
 <img width="549" alt="Screen Shot 2022-03-18 at 2 21 22 PM" src="https://user-images.githubusercontent.com/98235755/159061152-8521bc42-8f03-46b3-be0c-dff345f184fb.png">
 
-
+<img width="358" alt="Screen Shot 2022-03-18 at 2 23 12 PM" src="https://user-images.githubusercontent.com/98235755/159061402-905c4107-4a6c-4937-b1c0-a517747dab58.png">
