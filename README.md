@@ -9,7 +9,7 @@ Overview: We were asked to provide a written analysis of the election audit for 
 ![image](https://user-images.githubusercontent.com/98235755/159043385-a0ab9634-36b1-46a7-9d14-847e89746c6d.png)
 
 
-3. Write a for loop script that gets the county name from each row and decision statement with a logical operator to check if the county name acquires is in the county list. If not, it should be added to the county list. Start tracking the vounty votes, initializing it to zero. 
+3. Write a for loop script that gets the county name from each row and decision statement with a logical operator to check if the county name acquired is in the county list. If not, it should be added to the county list. Start tracking the vounty votes, initializing it to zero. 
 
 ![image](https://user-images.githubusercontent.com/98235755/159043485-bf279b23-2b6a-47a8-af10-c17ddeba9693.png)
 
